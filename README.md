@@ -4,7 +4,7 @@
 
 #
 Menu View
-<img  src="./img/menu.png" alt="drawing" style="border-radius:15%"/>
+<img  src="./img/menu.png" alt="drawing" style="border-radius:15%" align = "left"/>
 
 #
 Control Panel View
