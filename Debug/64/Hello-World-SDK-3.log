@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Ara dizin (.\Debug\64\) başka bir projeden (Hello-World-SDK-3.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  main.cpp
+C:\Users\Erdal\Desktop\dasal\main.cpp(98,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Erdal\Desktop\dasal\main.cpp(99,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Erdal\Desktop\dasal\main.cpp(100,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Erdal\Desktop\dasal\main.cpp(180,57): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Erdal\Desktop\dasal\main.cpp(180,36): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Erdal\Desktop\dasal\main.cpp(332,40): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Erdal\Desktop\dasal\main.cpp(328,25): warning C4101: 'StarterDurationArray': yerel değişken başvurusu kaldırıldı
+C:\Users\Erdal\Desktop\dasal\main.cpp(323,7): warning C4101: 'Buffer': yerel değişken başvurusu kaldırıldı
+C:\Users\Erdal\Desktop\dasal\main.cpp(328,8): warning C4101: 'StarterDuration': yerel değişken başvurusu kaldırıldı
+C:\Users\Erdal\Desktop\dasal\main.cpp(437,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Erdal\Desktop\dasal\main.cpp(483,86): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Erdal\Desktop\dasal\main.cpp(483,65): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+     .\Debug\64\Hello-World-SDK-3.lib kitaplığı ve .\Debug\64\Hello-World-SDK-3.exp nesnesi oluşturuluyor
+  Hello-World-SDK-3.vcxproj -> C:\Users\Erdal\Desktop\dasal\Debug\plugins\ControlPlugin\64\win.xpl
